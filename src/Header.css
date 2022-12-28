@@ -1,0 +1,27 @@
+
+.FirstDiv{
+    
+    text-align: center;
+    background-color:rgb(159, 52, 52);
+    padding-bottom: 1vh;
+    
+}
+.div2{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.FirstLine{
+
+    font-size: 35px;
+    padding-top: 20px;
+}
+.SecondLine{
+ color: white;
+ font-size: 20px;
+}
+.ThirdLine{
+    padding-top: 25px;
+    color: white;
+}
