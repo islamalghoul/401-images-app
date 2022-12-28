@@ -1,0 +1,9 @@
+.card{
+    min-height: 400px;
+}
+
+.totalLikes{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
